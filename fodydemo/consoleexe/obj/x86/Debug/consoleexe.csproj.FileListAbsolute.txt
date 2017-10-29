@@ -1,0 +1,4 @@
+/Users/raja/Projects/backend/kvpservice/fodydemo/consoleexe/obj/x86/Debug/consoleexe.csprojResolveAssemblyReference.cache
+/Users/raja/Projects/backend/kvpservice/fodydemo/consoleexe/obj/x86/Debug/consoleexe.csproj.CoreCompileInputs.cache
+/Users/raja/Projects/backend/kvpservice/fodydemo/consoleexe/obj/x86/Debug/consoleexe.exe
+/Users/raja/Projects/backend/kvpservice/fodydemo/consoleexe/obj/x86/Debug/consoleexe.pdb

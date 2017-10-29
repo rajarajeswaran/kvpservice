@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A6E444BD-D2CB-43AA-8E4E-43F28675B761}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="consoleexe/Program.cs">
+    <Files>
+      <File FileName="consoleexe/Program.cs" Line="1" Column="1" />
+      <File FileName="consoleexe/FodyWeavers.xml" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.consoleexe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

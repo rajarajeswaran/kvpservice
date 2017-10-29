@@ -1,3 +1,17 @@
-﻿<Properties StartupConfiguration="{EF30212A-028B-46ED-87AC-1CB1F87859A9}|Default">
+﻿<Properties StartupConfiguration="{7CA5ECAD-5546-422D-91F8-3CA537357604}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDataWebApi/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MasterDataWebApi/App_Start/WebApiConfig.cs" Line="22" Column="1" />
+      <File FileName="MasterDataWebApi/Controllers/HomeController.cs" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/Controllers/HomeController.cs" relfile="MasterDataWebApi/Controllers/HomeController.cs" line="13" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MasterDataWebApi PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

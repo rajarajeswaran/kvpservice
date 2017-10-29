@@ -1,0 +1,14 @@
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/MasterDataWebApi.dll
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/MasterDataWebApi.pdb
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/Newtonsoft.Json.dll
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/System.Net.Http.Formatting.dll
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/System.Web.Http.dll
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/System.Web.Http.WebHost.dll
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/System.Net.Http.Formatting.xml
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/System.Web.Http.xml
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/System.Web.Http.WebHost.xml
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/bin/Newtonsoft.Json.xml
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/obj/Debug/MasterDataWebApi.csprojResolveAssemblyReference.cache
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/obj/Debug/MasterDataWebApi.csproj.CoreCompileInputs.cache
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/obj/Debug/MasterDataWebApi.dll
+/Users/raja/Projects/backend/kvpservice/MasterData/MasterDataWebApi/obj/Debug/MasterDataWebApi.pdb
